@@ -1,4 +1,4 @@
-# Tarea: Mi prompt profesiona
+# Tarea: Mi prompt profesional
 
 Elige una funcionalidad sencilla de software que te gustaría construir (por ejemplo: registro de clientes, cálculo de notas o un CRUD de productos) y crea el archivo prompts/TAREA.md. En él vas a documentar cómo llevaste un prompt básico hasta un prompt profesional, iterando al menos tres veces.
 
